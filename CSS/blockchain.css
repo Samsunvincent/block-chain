@@ -1,0 +1,37 @@
+.image{
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    height: 60vh;
+    display: block;
+    
+}
+
+
+.home{
+    width: 100%;
+    position: relative;
+    /* max-width: 600px; */
+    
+    
+   
+}
+
+    
+
+.header1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    /* transform: translate(-50, -50); */
+    color: white;
+    /* font-size: 24px;
+    font-weight: bold;
+    pointer-events: none; */
+    float: left;
+}
+#header1{
+    /* float: left; */
+    text-align: left;
+    margin-bottom: 20%;
+}
